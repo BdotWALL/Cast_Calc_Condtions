@@ -10,7 +10,7 @@ Calculations
 Create a class called "Calculations" that reads user input of two numbers and prints the result of calculating with the two numbers. You will need to print 5 lines with results for the following calculations (use all 5 arithmetic operators): Addition, Subtraction, Multiplication, Division, Modulus
 
 Conditional Statements
-1. BoilingWater
+1.BoilingWater
 Create a class called "BoilingWater" that accepts user input asking for a number greater than 212. Write a conditional statement that writes that the "Water is boiling!" if the number entered is greater than 212.
 
 2.NumberComparison
