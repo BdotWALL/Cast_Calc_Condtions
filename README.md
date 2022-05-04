@@ -6,6 +6,7 @@ Casting
 2. Create two more variables. One variable should be a string variable that is equal to the number 49. Create another variable with the data type of int. The second variable should be equal to the first variable and cast using the parseInt() method. Please print them both to the console to match the below output.
 
 Calculations
+
 Create a class called "Calculations" that reads user input of two numbers and prints the result of calculating with the two numbers. You will need to print 5 lines with results for the following calculations (use all 5 arithmetic operators): Addition, Subtraction, Multiplication, Division, Modulus
 
 Conditional Statements
