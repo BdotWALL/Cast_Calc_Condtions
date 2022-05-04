@@ -1,18 +1,3 @@
-## Getting Started
+Create two variables. One variable should have a data type of double and the other one should have a data type of int. Set the double variable equal to 112.35 and set the in value to the double variable. You must explicitly cast your double into an in for the second variable. Please print them both to the console to match the below output.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Create two more variables. One variable should be a string variable that is equal to the number 49. Create another variable with the data type of int. The second variable should be equal to the first variable and cast using the parseInt() method. Please print them both to the console to match the below output.
