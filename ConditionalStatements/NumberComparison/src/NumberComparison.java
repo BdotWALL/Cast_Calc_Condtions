@@ -14,6 +14,8 @@ public class NumberComparison {
             System.out.println("Numbers are the same.");
         } else if (num1 > num2) {
             System.out.println("The first number was larger than the second.");
+        } else if (num1 == 0) {
+            System.out.println("Of course its smaller, its 0")
         }else {
             System.out.println("The second number was larger than the first.");
         }
